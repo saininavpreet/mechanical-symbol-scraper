@@ -1,0 +1,1 @@
+# mechanical-symbol-scraper
